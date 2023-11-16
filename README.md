@@ -1,1 +1,1 @@
-# gdsc-js
+# Basics of JavaScript
