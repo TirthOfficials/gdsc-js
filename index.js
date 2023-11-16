@@ -16,7 +16,7 @@ function add(){
 
 function subtract(){
     let a = document.getElementById("a").value;
-    let b = document.getElementById("a").value;
+    let b = document.getElementById("b").value;
 
     a = parseInt(a);
     b = parseInt(b);
@@ -26,7 +26,7 @@ function subtract(){
 
 function multiply(){
     let a = document.getElementById("a").value;
-    let b = document.getElementById("a").value;
+    let b = document.getElementById("b").value;
 
     a = parseInt(a);
     b = parseInt(b);
